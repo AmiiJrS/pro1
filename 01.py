@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-#ღḯḉḯη-тєαм
-
+#baru
 import LINETCR
 from LINETCR.lib.curve.ttypes import *
 from datetime import datetime
@@ -33,7 +32,7 @@ import cStringIO
 import urlparse
 import logging
 import argparse
-import mimic
+#import mimic
 import xml
 import base64
 import ast
